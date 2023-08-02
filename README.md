@@ -8,7 +8,7 @@ It gives banks the ability to satisfy client demands, remain
 competitive, and have a firm control on the financial sector.
 <br><br>
 The project consists has division of features and data between the Current and Savings Accounts.<br>
-<br>The common features include:<br><br>
+<br>The common features include:<br>
 1. New User Registration<br>
 2. Deposit Money<br>
 3. Withdraw Money<br>
