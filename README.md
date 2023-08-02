@@ -13,15 +13,15 @@ The project consists has division of features and data between the Current and S
 2. Deposit Money<br>
 3. Withdraw Money<br>
 4. View Account Details<br>
-5. Modify Account Details<br>
-<br>The features specific to Current Account are:<br><br>
+5. Modify Account Details<br><br>
+The features specific to Current Account are:<br><br>
 1. Issue Cheque Book<br>
-2. View Charges Imposed<br>
-<br>The features specific to Savings Account are:<br><br>
+2. View Charges Imposed<br><br>
+The features specific to Savings Account are:<br><br>
 1. Issue Debit Card<br>
-2. Get A Loan<br>
-<br>Header Files Used are:
+2. Get A Loan<br><br>
+Header Files Used are:
 1. windows.h<br>
-2. mysql.h<br>
-<br>The project is written in C++ along with the connection with a local database (known as "bank") which consists of two tables or relations (named as "current" for current account holders and "savings" for savings account holders).<br>
+2. mysql.h<br><br>
+The project is written in C++ along with the connection with a local database (known as "bank") which consists of two tables or relations (named as "current" for current account holders and "savings" for savings account holders).<br>
 All the operations are performed on the data stored in the database.
